@@ -1,5 +1,18 @@
 html {
 	background-color: #101316;
+	color: aliceblue;
+}
+
+.top-navbar {
+	background-color: #141618;
+	max-height: 50px;
+	margin-bottom: 15px;
+}
+
+.top-navbar img {
+	padding-left: 10px;
+	max-width: 50px;
+	max-height: auto;
 }
 
 .nav-bar {
