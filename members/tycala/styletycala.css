@@ -5,3 +5,28 @@ figure.box {
   width: 150px;
   display: inline-block;
 }
+#fdjn {
+  margin-left:auto; 
+  margin-right: auto;
+  display: Block;
+  border-style: solid;
+}
+#mf3k {
+  text-align: end;
+}
+a.linko:link {
+  color: ghostwhite;
+  text-decoration: none;
+}
+a.linko:visited {
+  color: ghostwhite;
+  text-decoration: none;
+}
+a.linko:hover {
+  color: ghostwhite;
+  text-decoration: none;
+}
+a.linko:active {
+  color: ghostwhite;
+  text-decoration: none;
+}
