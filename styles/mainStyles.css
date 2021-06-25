@@ -14,19 +14,6 @@ html {
 	max-width: 50px;
 	max-height: auto;
 }
-
-.nav-bar {
-	margin: 0;
-	background-color: #1f2026;
-}
-
-.nav-bar img {
-	margin-right: auto;
-	margin-left: auto;
-	display: block;
-}
-
-.nav-bar hr {
-	height: 0px;
-	width: 100%;
+h1 {
+	text-align: center;
 }
