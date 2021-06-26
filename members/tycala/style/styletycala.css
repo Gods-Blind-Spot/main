@@ -4,29 +4,29 @@
 figure.box {
   width: 150px;
   display: inline-block;
-}
-#fdjn {
+} /*Isso faz meus ratos ficarem um do lado do outro*/
+#Avatid {
   margin-left:auto; 
   margin-right: auto;
   display: Block;
   border-style: solid;
-}
-#mf3k {
+}/*Isso faz meu avatar ficar no meio com borda*/
+#hueid {
   text-align: end;
-}
-a.linko:link {
+}/*Coisim pra deixar o link num canto legal*/
+a.linkz:link {
+  color: ghostwhite;
+  text-decoration: none;
+}/*Esses trecos tudo de "linkz" é tudo pra deixar um link branco kk, 16 linhas só pra fazer um link ficar branco, to reclamando disso to ferrado no futuro*/
+a.linkz:visited {
   color: ghostwhite;
   text-decoration: none;
 }
-a.linko:visited {
+a.linkz:hover {
   color: ghostwhite;
   text-decoration: none;
 }
-a.linko:hover {
-  color: ghostwhite;
-  text-decoration: none;
-}
-a.linko:active {
+a.linkz:active {
   color: ghostwhite;
   text-decoration: none;
 }
